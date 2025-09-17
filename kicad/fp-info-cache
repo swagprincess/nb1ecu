@@ -1,4 +1,4 @@
-25948940206030715
+25955972516354641
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97334,6 +97334,13 @@ Logo WEEE
 0
 0
 0
+TC4424AVOA
+SOIC127P599X175-8N
+
+
+0
+8
+8
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -104271,6 +104278,13 @@ Varistor VF
 0
 2
 2
+cj125
+SO24W
+<b>SMALL OUTLINE INTEGRATED CIRCUIT</b><p>wide body 7.5 mm/JEDEC MO-119AA
+
+0
+24
+24
 kicad
 178780-1
 
@@ -104278,6 +104292,20 @@ kicad
 0
 80
 76
+mpx
+MPX-4_MAP
+
+
+0
+8
+6
+spartan3oem
+spartan3oem
+
+
+0
+15
+15
 teensy
 Teensy1.0
 11
