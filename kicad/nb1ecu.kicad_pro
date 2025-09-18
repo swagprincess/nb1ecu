@@ -667,6 +667,12 @@
           "label": "Digikey Part Number",
           "name": "Digikey Part Number",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LSC Part #",
+          "name": "LSC Part #",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -674,7 +680,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "${EXCLUDE_FROM_BOM}"
     },
     "connection_grid_size": 50.0,
     "drawing": {
