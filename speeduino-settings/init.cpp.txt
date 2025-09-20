@@ -28,12 +28,18 @@ case 56:
       pinFuelPump = 10; //Fuel pump output
       pinVVT_1 = 28; //Default VVT output
       pinBoost = 24; //Boost control
+
       pinSpareLOut1 = 29; //low current output spare1 alternator enable
       pinSpareLOut2 = 26; //low current output spare2 charge lamp
-      pinSpareLOut3 = 31; //low current output spare3 ac switch in 
-      pinSpareLOut4 = 30; //low current output spare4 ac out
+      //pinSpareLOut3 = 31; //low current output spare3 ac switch in 
+      //pinSpareLOut4 = 30; //low current output spare4 ac out
+
       pinFan = 25; //Pin for the fan output
       pinResetControl = 46; //Reset control output PLACEHOLDER value for now
+      
+      pinAirConComp = 30;
+      pinAirConRequest = 31;
+      
 
       #endif
       break;
