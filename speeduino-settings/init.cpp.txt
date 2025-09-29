@@ -21,6 +21,7 @@ case 56:
       pinCLT = A1; //CLS sensor pin
       pinO2 = A2; //O2 Sensor pin
       pinLaunch = 36;
+      pinVSS = 41; 
 
       pinSpareTemp1 = A16; //spare Analog input 1
       pinTachOut = 38; //Tacho output pin
