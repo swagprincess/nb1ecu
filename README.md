@@ -4,4 +4,4 @@ Integrated Wideband controller (Spartan 3 OEM), MAP and everything needed for it
 
 Using the current fastest Speeduino brain (Teensy 4.1 600MHz).
 
-Speeduino init.cpp pinmapping case 56 "Bear Cub".
+Config is a modified init.cpp pinmapping case 56 "Bear Cub", adds default pins for features like AC control
