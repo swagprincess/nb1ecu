@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CJ125")(type "KiCad")(uri "${KIPRJMOD}/libraries/cj125/CJ125.kicad_sym")(options "")(descr ""))
+  (lib (name "TC4424AVOA")(type "KiCad")(uri "${KIPRJMOD}/libraries/TC4424AVOA/TC4424AVOA.kicad_sym")(options "")(descr ""))
+  (lib (name "teensy")(type "Legacy")(uri "${KIPRJMOD}/libraries/teensy-libraries/teensy_library/teensy.lib")(options "")(descr ""))
+  (lib (name "178780-1")(type "KiCad")(uri "${KIPRJMOD}/libraries/conn-178780/178780-1.kicad_sym")(options "")(descr ""))
+  (lib (name "spartan3oem")(type "KiCad")(uri "${KIPRJMOD}/libraries/spartan3oem/spartan3oem.kicad_sym")(options "")(descr ""))
+)
